@@ -37,9 +37,9 @@ HospitalEMS/
 
 On launch, you'll see the main menu:
 
-=========================================
+
  MINI HOSPITAL EMERGENCY MANAGEMENT SYSTEM
-=========================================
+
 1. Patient Records (Binary Search Tree)
 2. Emergency Patient Queue (Queue)
 3. Treatment History (Stack)
